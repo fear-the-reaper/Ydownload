@@ -1,0 +1,3834 @@
+('C:\\Users\\Shah Hussain Khan\\Desktop\\Computer Science\\Projects\\Python '
+ 'Projects\\Ydownload\\build\\Ydownload2\\PYZ-00.pyz',
+ [('ntpath',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('_strptime',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('datetime',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\datetime.py',
+   'PYMODULE'),
+  ('stringprep',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('typing',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\typing.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('struct',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\struct.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('__future__',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\__future__.py',
+   'PYMODULE'),
+  ('difflib',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\difflib.py',
+   'PYMODULE'),
+  ('ast',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\ast.py',
+   'PYMODULE'),
+  ('inspect',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\inspect.py',
+   'PYMODULE'),
+  ('cmd',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\cmd.py',
+   'PYMODULE'),
+  ('bdb',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\bdb.py',
+   'PYMODULE'),
+  ('opcode',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\opcode.py',
+   'PYMODULE'),
+  ('dis',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\dis.py',
+   'PYMODULE'),
+  ('codeop',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\codeop.py',
+   'PYMODULE'),
+  ('code',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\code.py',
+   'PYMODULE'),
+  ('glob',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\glob.py',
+   'PYMODULE'),
+  ('shlex',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\shlex.py',
+   'PYMODULE'),
+  ('runpy',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\runpy.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('xml',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('plistlib',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('platform',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\platform.py',
+   'PYMODULE'),
+  ('token',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('tempfile',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('tty',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\tty.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('html.entities',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('html',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('ssl',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\ssl.py',
+   'PYMODULE'),
+  ('http.client',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('socketserver',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('http',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.server',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('optparse',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\optparse.py',
+   'PYMODULE'),
+  ('uu',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\uu.py',
+   'PYMODULE'),
+  ('quopri',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\quopri.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.parser',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('calendar',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\calendar.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email.utils',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email.errors',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.header',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.charset',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('base64',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\base64.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('hashlib',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('bisect',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\bisect.py',
+   'PYMODULE'),
+  ('random',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\random.py',
+   'PYMODULE'),
+  ('email.generator',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('urllib',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.policy',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.message',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('bz2',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\bz2.py',
+   'PYMODULE'),
+  ('lzma',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\lzma.py',
+   'PYMODULE'),
+  ('_compression',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\_compression.py',
+   'PYMODULE'),
+  ('gzip',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\gzip.py',
+   'PYMODULE'),
+  ('tarfile',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('zipfile',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('shutil',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\shutil.py',
+   'PYMODULE'),
+  ('socket',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\socket.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('pydoc',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('getopt',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\getopt.py',
+   'PYMODULE'),
+  ('pdb',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\pdb.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('string',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\string.py',
+   'PYMODULE'),
+  ('logging',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('doctest',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\doctest.py',
+   'PYMODULE'),
+  ('gettext',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\gettext.py',
+   'PYMODULE'),
+  ('copy',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\copy.py',
+   'PYMODULE'),
+  ('textwrap',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('argparse',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\argparse.py',
+   'PYMODULE'),
+  ('pprint',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\pprint.py',
+   'PYMODULE'),
+  ('pickle',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\pickle.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('stat',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\stat.py',
+   'PYMODULE'),
+  ('genericpath',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('posixpath',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('signal',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\signal.py',
+   'PYMODULE'),
+  ('contextlib',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('threading',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\threading.py',
+   'PYMODULE'),
+  ('selectors',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\selectors.py',
+   'PYMODULE'),
+  ('subprocess',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('os',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\os.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\netrc.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('youtube_dl',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\__init__.py',
+   'PYMODULE'),
+  ('youtube_dl.YoutubeDL',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\YoutubeDL.py',
+   'PYMODULE'),
+  ('pty',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\pty.py',
+   'PYMODULE'),
+  ('ctypes',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('youtube_dl.version',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\version.py',
+   'PYMODULE'),
+  ('youtube_dl.postprocessor',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\postprocessor\\__init__.py',
+   'PYMODULE'),
+  ('youtube_dl.postprocessor.metadatafromtitle',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\postprocessor\\metadatafromtitle.py',
+   'PYMODULE'),
+  ('youtube_dl.postprocessor.common',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\postprocessor\\common.py',
+   'PYMODULE'),
+  ('youtube_dl.postprocessor.execafterdownload',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\postprocessor\\execafterdownload.py',
+   'PYMODULE'),
+  ('youtube_dl.postprocessor.xattrpp',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\postprocessor\\xattrpp.py',
+   'PYMODULE'),
+  ('youtube_dl.postprocessor.ffmpeg',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\postprocessor\\ffmpeg.py',
+   'PYMODULE'),
+  ('youtube_dl.postprocessor.embedthumbnail',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\postprocessor\\embedthumbnail.py',
+   'PYMODULE'),
+  ('youtube_dl.downloader.rtmp',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\downloader\\rtmp.py',
+   'PYMODULE'),
+  ('youtube_dl.downloader.common',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\downloader\\common.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.openload',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\openload.py',
+   'PYMODULE'),
+  ('youtube_dl.cache',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\cache.py',
+   'PYMODULE'),
+  ('json',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('fileinput',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\fileinput.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.adobepass',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\adobepass.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.common',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\common.py',
+   'PYMODULE'),
+  ('youtube_dl.downloader.f4m',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\downloader\\f4m.py',
+   'PYMODULE'),
+  ('youtube_dl.downloader.fragment',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\downloader\\fragment.py',
+   'PYMODULE'),
+  ('youtube_dl.downloader.http',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\downloader\\http.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\__init__.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.extractors',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\extractors.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.zype',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\zype.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.zingmp3',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\zingmp3.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.zdf',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\zdf.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.zattoo',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\zattoo.py',
+   'PYMODULE'),
+  ('uuid',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\uuid.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('netbios',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\win32\\lib\\netbios.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.zaq1',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\zaq1.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.zapiks',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\zapiks.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.youtube',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\youtube.py',
+   'PYMODULE'),
+  ('youtube_dl.swfinterp',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\swfinterp.py',
+   'PYMODULE'),
+  ('youtube_dl.jsinterp',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\jsinterp.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.yourupload',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\yourupload.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.yourporn',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\yourporn.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.youporn',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\youporn.py',
+   'PYMODULE'),
+  ('youtube_dl.aes',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\aes.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.younow',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\younow.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.youku',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\youku.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.youjizz',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\youjizz.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.ynet',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\ynet.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.yinyuetai',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\yinyuetai.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.yesjapan',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\yesjapan.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.yapfiles',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\yapfiles.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.yandexvideo',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\yandexvideo.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.yandexmusic',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\yandexmusic.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.yandexdisk',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\yandexdisk.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.yahoo',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\yahoo.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.xxxymovies',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\xxxymovies.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.xvideos',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\xvideos.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.xuite',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\xuite.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.xtube',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\xtube.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.xstream',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\xstream.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.xnxx',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\xnxx.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.xminus',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\xminus.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.ximalaya',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\ximalaya.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.xiami',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\xiami.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.xhamster',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\xhamster.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.xfileshare',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\xfileshare.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.xboxclips',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\xboxclips.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.xbef',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\xbef.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.wwe',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\wwe.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.wsj',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\wsj.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.worldstarhiphop',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\worldstarhiphop.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.wistia',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\wistia.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.weiqitv',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\weiqitv.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.weibo',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\weibo.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.webofstories',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\webofstories.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.webcaster',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\webcaster.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.wdr',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\wdr.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.watchindianporn',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\watchindianporn.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.watchbox',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\watchbox.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.wat',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\wat.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.washingtonpost',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\washingtonpost.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.walla',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\walla.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.wakanim',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\wakanim.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.vzaar',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\vzaar.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.vyborymos',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\vyborymos.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.vvvvid',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\vvvvid.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.vuclip',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\vuclip.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.vube',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\vube.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.medialaan',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\medialaan.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.gigya',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\gigya.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.vshare',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\vshare.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.vrv',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\vrv.py',
+   'PYMODULE'),
+  ('hmac',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\hmac.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.vrak',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\vrak.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.vrt',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\vrt.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.voxmedia',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\voxmedia.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.once',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\once.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.voot',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\voot.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.voicerepublic',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\voicerepublic.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.vodplatform',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\vodplatform.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.vodpl',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\vodpl.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.vodlocker',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\vodlocker.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.vlive',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\vlive.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.vk',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\vk.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.viu',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\viu.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.viqeo',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\viqeo.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.viki',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\viki.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.vine',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\vine.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.vimple',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\vimple.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.vimeo',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\vimeo.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.viidea',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\viidea.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.viewlift',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\viewlift.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.vier',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\vier.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.vidzi',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\vidzi.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.vidme',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\vidme.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.vidlii',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\vidlii.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.vidio',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\vidio.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.videopress',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\videopress.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.videomore',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\videomore.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.videofyme',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\videofyme.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.videodetective',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\videodetective.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.videa',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\videa.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.viddler',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\viddler.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.vidbit',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\vidbit.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.vice',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\vice.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.vh1',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\vh1.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.vgtv',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\vgtv.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.vevo',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\vevo.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.vesti',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\vesti.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.veoh',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\veoh.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.veehd',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\veehd.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.vbox7',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\vbox7.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.varzesh3',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\varzesh3.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.ustudio',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\ustudio.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.ustream',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\ustream.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.usatoday',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\usatoday.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.usanetwork',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\usanetwork.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.urplay',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\urplay.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.urort',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\urort.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.uplynk',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\uplynk.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.uol',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\uol.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.unity',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\unity.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.unistra',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\unistra.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.umg',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\umg.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.dlive',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\dlive.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.digiteka',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\digiteka.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.uktvplay',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\uktvplay.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.ufctv',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\ufctv.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.imggaming',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\imggaming.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.udn',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\udn.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.udemy',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\udemy.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.twitter',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\twitter.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.twitch',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\twitch.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.twitcasting',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\twitcasting.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.twentythreevideo',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\twentythreevideo.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.twentymin',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\twentymin.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.twentyfourvideo',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\twentyfourvideo.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.tweakers',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\tweakers.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.tvplayer',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\tvplayer.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.tvplay',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\tvplay.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.tvp',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\tvp.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.tvnow',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\tvnow.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.tvnoe',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\tvnoe.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.tvnet',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\tvnet.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.tvn24',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\tvn24.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.tvland',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\tvland.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.tvigle',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\tvigle.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.tvc',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\tvc.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.tvanouvelles',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\tvanouvelles.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.tva',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\tva.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.tv5mondeplus',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\tv5mondeplus.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.tv4',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\tv4.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.tv2hu',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\tv2hu.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.tv2dk',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\tv2dk.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.tv2',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\tv2.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.turbo',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\turbo.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.tunepk',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\tunepk.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.tunein',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\tunein.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.tumblr',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\tumblr.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.tubitv',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\tubitv.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.tube8',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\tube8.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.trutv',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\trutv.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.turner',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\turner.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.trunews',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\trunews.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.trilulilu',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\trilulilu.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.traileraddict',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\traileraddict.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.toypics',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\toypics.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.toutv',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\toutv.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.toongoggles',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\toongoggles.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.tonline',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\tonline.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.toggle',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\toggle.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.tnaflix',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\tnaflix.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.tmz',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\tmz.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.tinypic',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\tinypic.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.tiktok',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\tiktok.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.threeqsdn',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\threeqsdn.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.thisoldhouse',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\thisoldhouse.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.thisav',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\thisav.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.thisamericanlife',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\thisamericanlife.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.theweatherchannel',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\theweatherchannel.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.thesun',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\thesun.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.thestar',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\thestar.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.thescene',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\thescene.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.theplatform',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\theplatform.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.theintercept',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\theintercept.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.tfo',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\tfo.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.tf1',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\tf1.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.testurl',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\testurl.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.tenplay',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\tenplay.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.tennistv',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\tennistv.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.telewebion',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\telewebion.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.teletask',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\teletask.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.telequebec',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\telequebec.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.telemb',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\telemb.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.telegraaf',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\telegraaf.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.telecinco',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\telecinco.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.telebruxelles',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\telebruxelles.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.tele13',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\tele13.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.tele5',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\tele5.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.ted',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\ted.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.techtalks',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\techtalks.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.teamtreehouse',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\teamtreehouse.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.teamcoco',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\teamcoco.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.teachingchannel',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\teachingchannel.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.teachertube',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\teachertube.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.teachable',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\teachable.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.tdslifeway',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\tdslifeway.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.tbs',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\tbs.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.tastytrade',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\tastytrade.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.tass',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\tass.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.tagesschau',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\tagesschau.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.sztvhu',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\sztvhu.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.syfy',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\syfy.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.swrmediathek',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\swrmediathek.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.svt',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\svt.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.sverigesradio',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\sverigesradio.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.sunporno',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\sunporno.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.stv',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\stv.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.stretchinternet',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\stretchinternet.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.streetvoice',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\streetvoice.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.streamcz',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\streamcz.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.streamcloud',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\streamcloud.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.streamable',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\streamable.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.steam',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\steam.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.stanfordoc',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\stanfordoc.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.srmediathek',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\srmediathek.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.srgssr',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\srgssr.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.sprout',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\sprout.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.springboardplatform',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\springboardplatform.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.sportdeutschland',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\sportdeutschland.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.sportbox',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\sportbox.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.sport5',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\sport5.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.stitcher',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\stitcher.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.spike',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\spike.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.spiegeltv',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\spiegeltv.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.spiegel',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\spiegel.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.spankwire',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\spankwire.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.spankbang',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\spankbang.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.southpark',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\southpark.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.soundgasm',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\soundgasm.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.soundcloud',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\soundcloud.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.sonyliv',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\sonyliv.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.sohu',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\sohu.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.snotr',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\snotr.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.smotri',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\smotri.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.slutload',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\slutload.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.slideslive',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\slideslive.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.slideshare',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\slideshare.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.sky',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\sky.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.skynewsarabia',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\skynewsarabia.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.skylinewebcams',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\skylinewebcams.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.sixplay',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\sixplay.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.sina',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\sina.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.showroomlive',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\showroomlive.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.shared',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\shared.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.shahid',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\shahid.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.aws',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\aws.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.seznamzpravy',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\seznamzpravy.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.sexu',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\sexu.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.sevenplus',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\sevenplus.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.servus',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\servus.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.sendtonews',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\sendtonews.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.senateisvp',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\senateisvp.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.seeker',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\seeker.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.scte',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\scte.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.scrippsnetworks',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\scrippsnetworks.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.screencastomatic',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\screencastomatic.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.screencast',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\screencast.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.sbs',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\sbs.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.savefrom',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\savefrom.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.sapo',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\sapo.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.safari',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\safari.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.ruv',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\ruv.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.ruutu',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\ruutu.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.rutv',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\rutv.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.rutube',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\rutube.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.ruhd',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\ruhd.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.rtvs',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\rtvs.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.rtvnh',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\rtvnh.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.rtve',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\rtve.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.rts',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\rts.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.rtp',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\rtp.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.rtl2',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\rtl2.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.rtlnl',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\rtlnl.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.rte',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\rte.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.rtbf',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\rtbf.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.rozhlas',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\rozhlas.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.roxwel',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\roxwel.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.rottentomatoes',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\rottentomatoes.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.roosterteeth',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\roosterteeth.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.rockstargames',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\rockstargames.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.ro220',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\ro220.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.rmcdecouverte',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\rmcdecouverte.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.rice',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\rice.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.reverbnation',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\reverbnation.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.reuters',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\reuters.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.restudy',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\restudy.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.rentv',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\rentv.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.regiotv',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\regiotv.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.redtube',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\redtube.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.reddit',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\reddit.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.redbulltv',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\redbulltv.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.rds',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\rds.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.rbmaradio',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\rbmaradio.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.raywenderlich',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\raywenderlich.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.rai',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\rai.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.radiofrance',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\radiofrance.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.radiobremen',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\radiobremen.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.radiojavan',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\radiojavan.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.radiode',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\radiode.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.radiocanada',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\radiocanada.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.r7',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\r7.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.qqmusic',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\qqmusic.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.pyvideo',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\pyvideo.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.puls4',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\puls4.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.prosiebensat1',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\prosiebensat1.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.presstv',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\presstv.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.puhutv',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\puhutv.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.pornoxo',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\pornoxo.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.pornovoisines',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\pornovoisines.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.pornotube',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\pornotube.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.pornhub',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\pornhub.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.pornhd',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\pornhd.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.porncom',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\porncom.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.porn91',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\porn91.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.popcorntv',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\popcorntv.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.polskieradio',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\polskieradio.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.pokemon',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\pokemon.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.podomatic',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\podomatic.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.pluralsight',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\pluralsight.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.playwire',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\playwire.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.playvid',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\playvid.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.playtvak',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\playtvak.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.plays',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\plays.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.playplustv',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\playplustv.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.playfm',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\playfm.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.platzi',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\platzi.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.pladform',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\pladform.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.pinkbike',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\pinkbike.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.piksel',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\piksel.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.picarto',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\picarto.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.photobucket',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\photobucket.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.phoenix',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\phoenix.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.philharmoniedeparis',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\philharmoniedeparis.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.periscope',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\periscope.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.performgroup',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\performgroup.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.people',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\people.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.peertube',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\peertube.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.pearvideo',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\pearvideo.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.pbs',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\pbs.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.patreon',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\patreon.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.parliamentliveuk',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\parliamentliveuk.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.pandoratv',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\pandoratv.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.pandatv',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\pandatv.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.packtpub',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\packtpub.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.outsidetv',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\outsidetv.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.orf',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\orf.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.ora',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\ora.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.ooyala',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\ooyala.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.onionstudios',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\onionstudios.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.onet',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\onet.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.ondemandkorea',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\ondemandkorea.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.oktoberfesttv',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\oktoberfesttv.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.odnoklassniki',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\odnoklassniki.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.odatv',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\odatv.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.nzz',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\nzz.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.nuvid',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\nuvid.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.nytimes',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\nytimes.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.ntvru',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\ntvru.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.ntvde',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\ntvde.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.ntvcojp',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\ntvcojp.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.nrl',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\nrl.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.nrk',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\nrk.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.npr',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\npr.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.npo',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\npo.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.noz',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\noz.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.nowness',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\nowness.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.nova',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\nova.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.nosvideo',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\nosvideo.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.normalboots',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\normalboots.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.noovo',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\noovo.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.nonktube',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\nonktube.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.nuevo',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\nuevo.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.noco',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\noco.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.nobelprize',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\nobelprize.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.njpwworld',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\njpwworld.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.nintendo',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\nintendo.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.ninenow',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\ninenow.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.ninegag',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\ninegag.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.ninecninemedia',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\ninecninemedia.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.niconico',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\niconico.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.nick',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\nick.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.nhl',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\nhl.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.nhk',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\nhk.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.nfl',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\nfl.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.nexx',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\nexx.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.nextmedia',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\nextmedia.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.newstube',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\newstube.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.newgrounds',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\newgrounds.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.neteasemusic',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\neteasemusic.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.nerdcubed',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\nerdcubed.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.netzkino',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\netzkino.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.ndtv',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\ndtv.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.ndr',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\ndr.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.nbc',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\nbc.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.nba',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\nba.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.naver',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\naver.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.nationalgeographic',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\nationalgeographic.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.myvidster',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\myvidster.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.myvi',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\myvi.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.myspass',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\myspass.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.myspace',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\myspace.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.mychannels',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\mychannels.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.mwave',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\mwave.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.muenchentv',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\muenchentv.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.mtv',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\mtv.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.msn',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\msn.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.movingimage',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\movingimage.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.moviezine',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\moviezine.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.movieclips',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\movieclips.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.motorsport',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\motorsport.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.motherless',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\motherless.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.morningstar',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\morningstar.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.mojvideo',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\mojvideo.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.mofosex',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\mofosex.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.moevideo',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\moevideo.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.mnet',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\mnet.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.mlb',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\mlb.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.mixcloud',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\mixcloud.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.mitele',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\mitele.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.mit',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\mit.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.miomio',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\miomio.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.minoto',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\minoto.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.ministrygrid',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\ministrygrid.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.microsoftvirtualacademy',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\microsoftvirtualacademy.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.miaopai',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\miaopai.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.mgtv',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\mgtv.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.mgoon',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\mgoon.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.metacritic',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\metacritic.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.metacafe',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\metacafe.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.meta',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\meta.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.melonvod',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\melonvod.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.meipai',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\meipai.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.megaphone',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\megaphone.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.medici',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\medici.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.mediasite',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\mediasite.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.mediaset',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\mediaset.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.mdr',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\mdr.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.matchtv',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\matchtv.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.massengeschmacktv',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\massengeschmacktv.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.markiza',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\markiza.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.manyvids',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\manyvids.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.mangomolo',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\mangomolo.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.malltv',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\malltv.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.mailru',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\mailru.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.m6',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\m6.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.lynda',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\lynda.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.lrt',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\lrt.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.lovehomeporn',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\lovehomeporn.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.localnews8',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\localnews8.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.lnkgo',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\lnkgo.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.livestream',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\livestream.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.liveleak',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\liveleak.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.livejournal',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\livejournal.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.litv',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\litv.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.linuxacademy',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\linuxacademy.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.linkedin',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\linkedin.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.line',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\line.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.limelight',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\limelight.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.lifenews',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\lifenews.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.libsyn',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\libsyn.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.libraryofcongress',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\libraryofcongress.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.lenta',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\lenta.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.lemonde',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\lemonde.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.lego',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\lego.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.leeco',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\leeco.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.lecturio',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\lecturio.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.lecture2go',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\lecture2go.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.lcp',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\lcp.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.lci',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\lci.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.laola1tv',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\laola1tv.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.la7',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\la7.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.kuwo',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\kuwo.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.kusi',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\kusi.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.ku6',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\ku6.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.krasview',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\krasview.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.konserthusetplay',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\konserthusetplay.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.kinopoisk',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\kinopoisk.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.kinja',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\kinja.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.kickstarter',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\kickstarter.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.khanacademy',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\khanacademy.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.ketnet',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\ketnet.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.keezmovies',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\keezmovies.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.karrierevideos',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\karrierevideos.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.karaoketv',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\karaoketv.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.kankan',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\kankan.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.kanalplay',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\kanalplay.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.kaltura',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\kaltura.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.kakao',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\kakao.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.jpopsukitv',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\jpopsukitv.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.jwplatform',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\jwplatform.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.joj',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\joj.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.jove',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\jove.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.jeuxvideo',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\jeuxvideo.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.jamendo',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\jamendo.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.izlesene',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\izlesene.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.iwara',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\iwara.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.ivideon',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\ivideon.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.ivi',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\ivi.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.itv',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\itv.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.ir90tv',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\ir90tv.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.iqiyi',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\iqiyi.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.iprima',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\iprima.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.internetvideoarchive',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\internetvideoarchive.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.internazionale',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\internazionale.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.instagram',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\instagram.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.infoq',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\infoq.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.indavideo',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\indavideo.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.inc',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\inc.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.ina',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\ina.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.imgur',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\imgur.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.imdb',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\imdb.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.ign',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\ign.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.hypem',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\hypem.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.hungama',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\hungama.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.huffpost',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\huffpost.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.huajiao',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\huajiao.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.hrti',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\hrti.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.howstuffworks',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\howstuffworks.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.howcast',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\howcast.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.hotstar',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\hotstar.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.hotnewhiphop',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\hotnewhiphop.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.hornbunny',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\hornbunny.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.hitrecord',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\hitrecord.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.hitbox',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\hitbox.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.historicfilms',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\historicfilms.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.hidive',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\hidive.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.hketv',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\hketv.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.hgtv',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\hgtv.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.hentaistigma',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\hentaistigma.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.helsinki',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\helsinki.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.hellporno',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\hellporno.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.heise',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\heise.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.hearthisat',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\hearthisat.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.hbo',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\hbo.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.groupon',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\groupon.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.gputechconf',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\gputechconf.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.goshgay',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\goshgay.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.googlesearch',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\googlesearch.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.googleplus',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\googleplus.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.googledrive',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\googledrive.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.golem',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\golem.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.godtube',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\godtube.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.go',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\go.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.globo',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\globo.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.glide',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\glide.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.giga',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\giga.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.giantbomb',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\giantbomb.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.gfycat',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\gfycat.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.generic',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\generic.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.gdcvault',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\gdcvault.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.gazeta',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\gazeta.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.gaskrank',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\gaskrank.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.gamestar',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\gamestar.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.gamespot',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\gamespot.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.gameinformer',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\gameinformer.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.gaia',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\gaia.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.fxnetworks',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\fxnetworks.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.fusion',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\fusion.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.funk',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\funk.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.funimation',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\funimation.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.frontendmasters',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\frontendmasters.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.freshlive',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\freshlive.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.freespeech',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\freespeech.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.freesound',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\freesound.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.francetv',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\francetv.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.franceinter',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\franceinter.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.franceculture',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\franceculture.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.foxsports',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\foxsports.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.foxnews',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\foxnews.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.amp',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\amp.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.foxgay',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\foxgay.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.fox9',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\fox9.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.fox',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\fox.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.fourtube',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\fourtube.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.formula1',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\formula1.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.footyroom',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\footyroom.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.folketinget',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\folketinget.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.flickr',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\flickr.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.fivetv',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\fivetv.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.fivemin',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\fivemin.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.firsttv',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\firsttv.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.filmweb',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\filmweb.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.filmon',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\filmon.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.fczenit',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\fczenit.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.fc2',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\fc2.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.faz',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\faz.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.facebook',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\facebook.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.eyedotv',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\eyedotv.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.extremetube',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\extremetube.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.expressen',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\expressen.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.expotv',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\expotv.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.everyonesmixtape',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\everyonesmixtape.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.europa',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\europa.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.esri',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\esri.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.espn',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\espn.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.escapist',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\escapist.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.eroprofile',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\eroprofile.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.eporner',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\eporner.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.engadget',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\engadget.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.embedly',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\embedly.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.elpais',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\elpais.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.ellentube',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\ellentube.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.eitb',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\eitb.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.einthusan',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\einthusan.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.eighttracks',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\eighttracks.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.ehow',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\ehow.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.egghead',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\egghead.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.echomsk',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\echomsk.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.ebaumsworld',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\ebaumsworld.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.eagleplatform',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\eagleplatform.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.dw',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\dw.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.dropbox',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\dropbox.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.dispeak',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\dispeak.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.disney',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\disney.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.discoveryvr',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\discoveryvr.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.discoverynetworks',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\discoverynetworks.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.discoverygo',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\discoverygo.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.discovery',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\discovery.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.defense',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\defense.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.dumpert',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\dumpert.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.dvtv',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\dvtv.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.dtube',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\dtube.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.drtv',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\drtv.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.drtuber',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\drtuber.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.drbonanza',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\drbonanza.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.dreisat',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\dreisat.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.dplay',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\dplay.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.douyutv',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\douyutv.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.dotsub',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\dotsub.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.digg',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\digg.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.dhm',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\dhm.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.dfb',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\dfb.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.democracynow',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\democracynow.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.deezer',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\deezer.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.dctp',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\dctp.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.dbtv',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\dbtv.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.daum',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\daum.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.dailymotion',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\dailymotion.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.dailymail',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\dailymail.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.cwtv',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\cwtv.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.curiositystream',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\curiositystream.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.cultureunplugged',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\cultureunplugged.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.ctvnews',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\ctvnews.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.ctsnews',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\ctsnews.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.cspan',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\cspan.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.crunchyroll',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\crunchyroll.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.crooksandliars',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\crooksandliars.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.crackle',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\crackle.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.cracked',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\cracked.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.corus',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\corus.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.contv',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\contv.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.condenast',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\condenast.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.commonprotocols',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\commonprotocols.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.commonmistakes',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\commonmistakes.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.comedycentral',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\comedycentral.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.coub',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\coub.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.cnn',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\cnn.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.cnbc',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\cnbc.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.cmt',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\cmt.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.clyp',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\clyp.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.clubic',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\clubic.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.cloudy',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\cloudy.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.cloudflarestream',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\cloudflarestream.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.closertotruth',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\closertotruth.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.clipsyndicate',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\clipsyndicate.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.cliprs',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\cliprs.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.clippit',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\clippit.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.cliphunter',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\cliphunter.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.cjsw',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\cjsw.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.ciscolive',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\ciscolive.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.cinemax',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\cinemax.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.cinchcast',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\cinchcast.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.chirbit',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\chirbit.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.chilloutzone',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\chilloutzone.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.chaturbate',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\chaturbate.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.charlierose',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\charlierose.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.channel9',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\channel9.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.ceskatelevize',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\ceskatelevize.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.cda',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\cda.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.cctv',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\cctv.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.ccma',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\ccma.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.ccc',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\ccc.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.cbssports',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\cbssports.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.cbsnews',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\cbsnews.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.cbsinteractive',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\cbsinteractive.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.cbslocal',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\cbslocal.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.cbs',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\cbs.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.cbc',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\cbc.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.cartoonnetwork',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\cartoonnetwork.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.carambatv',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\carambatv.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.canvas',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\canvas.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.canalc2',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\canalc2.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.canalplus',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\canalplus.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.camwithher',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\camwithher.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.camtube',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\camtube.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.cammodels',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\cammodels.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.camdemy',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\camdemy.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.c56',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\c56.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.byutv',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\byutv.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.buzzfeed',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\buzzfeed.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.businessinsider',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\businessinsider.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.brightcove',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\brightcove.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.breakcom',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\breakcom.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.bravotv',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\bravotv.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.br',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\br.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.bpb',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\bpb.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.bostonglobe',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\bostonglobe.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.bokecc',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\bokecc.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.bloomberg',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\bloomberg.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.blinkx',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\blinkx.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.bleacherreport',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\bleacherreport.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.biqle',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\biqle.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.bitchute',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\bitchute.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.biobiochiletv',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\biobiochiletv.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.bilibili',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\bilibili.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.bild',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\bild.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.bigflix',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\bigflix.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.bfi',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\bfi.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.bet',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\bet.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.beatport',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\beatport.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.bellmedia',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\bellmedia.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.behindkink',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\behindkink.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.beeg',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\beeg.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.beampro',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\beampro.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.bbc',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\bbc.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.bandcamp',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\bandcamp.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.baidu',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\baidu.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.azmedien',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\azmedien.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.awaan',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\awaan.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.audiomack',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\audiomack.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.audioboom',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\audioboom.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.audimedia',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\audimedia.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.atvat',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\atvat.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.atttechchannel',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\atttechchannel.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.atresplayer',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\atresplayer.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.asiancrush',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\asiancrush.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.arte',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\arte.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.ard',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\ard.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.arkena',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\arkena.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.archiveorg',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\archiveorg.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.appletrailers',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\appletrailers.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.appleconnect',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\appleconnect.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.aparat',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\aparat.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.apa',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\apa.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.aliexpress',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\aliexpress.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.allocine',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\allocine.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.aol',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\aol.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.anvato',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\anvato.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.animeondemand',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\animeondemand.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.americastestkitchen',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\americastestkitchen.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.amcnetworks',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\amcnetworks.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.alphaporno',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\alphaporno.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.aljazeera',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\aljazeera.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.airmozilla',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\airmozilla.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.afreecatv',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\afreecatv.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.aenetworks',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\aenetworks.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.adultswim',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\adultswim.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.adobetv',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\adobetv.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.adobeconnect',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\adobeconnect.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.adn',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\adn.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.acast',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\acast.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.academicearth',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\academicearth.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.abcotvs',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\abcotvs.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.abcnews',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\abcnews.py',
+   'PYMODULE'),
+  ('youtube_dl.extractor.abc',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\extractor\\abc.py',
+   'PYMODULE'),
+  ('youtube_dl.downloader',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\downloader\\__init__.py',
+   'PYMODULE'),
+  ('youtube_dl.downloader.external',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\downloader\\external.py',
+   'PYMODULE'),
+  ('youtube_dl.downloader.ism',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\downloader\\ism.py',
+   'PYMODULE'),
+  ('youtube_dl.downloader.rtsp',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\downloader\\rtsp.py',
+   'PYMODULE'),
+  ('youtube_dl.downloader.dash',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\downloader\\dash.py',
+   'PYMODULE'),
+  ('youtube_dl.downloader.hls',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\downloader\\hls.py',
+   'PYMODULE'),
+  ('youtube_dl.update',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\update.py',
+   'PYMODULE'),
+  ('youtube_dl.utils',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\utils.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('youtube_dl.socks',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\socks.py',
+   'PYMODULE'),
+  ('youtube_dl.compat',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\compat.py',
+   'PYMODULE'),
+  ('html.parser',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\html\\parser.py',
+   'PYMODULE'),
+  ('_markupbase',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\_markupbase.py',
+   'PYMODULE'),
+  ('http.cookies',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\http\\cookies.py',
+   'PYMODULE'),
+  ('youtube_dl.options',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\youtube_dl\\options.py',
+   'PYMODULE'),
+  ('tkinter',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'c:\\users\\shah hussain '
+   'khan\\appdata\\local\\programs\\python\\python37-32\\lib\\tkinter\\constants.py',
+   'PYMODULE')])
